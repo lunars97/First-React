@@ -13,9 +13,8 @@ const ModalWindow = (props) => {
         };
 
         props.handleSaveTask(newDoc);
-        console.log(newDoc);
+        // console.log(newDoc);
     }
-
     return (
         <div className="main-modal">
             <div className="inner-modal">

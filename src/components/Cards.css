@@ -11,7 +11,7 @@ li {
 }
 
 .list {
-    background-color: rgb(94, 231, 201);
+    background: linear-gradient(to top right, #33ccff 65%, #ff99cc 100%);
     width: 300px;
     border-radius: 6px;
     box-shadow: 3px 5px 6px rgb(140, 0, 255);
