@@ -1,0 +1,38 @@
+.main-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(243, 101, 184, 0.5);
+}
+
+.inner-modal {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(135, 209, 243);
+    margin-top: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 4px cadetblue;
+}
+.close-btn {
+    float: right;
+}
+.editTitle {
+    padding: 5px 10px;
+    outline: none;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.editBody {
+    margin-top: 15px;
+    padding-left: 10px;
+}
+.edit-btn {
+    margin-top: 30px;
+    background-color: rgb(83, 11, 80);
+    padding: 4px 8px;
+}
+.close {
+    margin-top: 20px;
+}
